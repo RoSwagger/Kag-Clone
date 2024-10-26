@@ -8,6 +8,23 @@
   </p>
 </div>
 
+# RoSwagger API Integration
+
+This project integrates with the RoSwagger API, allowing you to make requests to various endpoints.
+
+## Creator Program
+
+- **Website**: [roswagger.com](https://roswagger.com)
+- **Creator Program**: [discord.roswagger.com](https://discord.roswagger.com)
+
+The Creator Program offers no restrictions and is completely free. You must have an active server to participate.
+Currently, restricted users have a cooldown of 5 seconds per user scrape, 30 seconds per group scrape.
+
+## Endpoints
+
+You can view available endpoints on the RoSwagger website. The API is structured as follows:
+
+
 # ⚙️ Setup
 
 1. Fill everything in config.json
