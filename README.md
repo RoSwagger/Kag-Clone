@@ -6,34 +6,45 @@
     A simple discord bot that helps with lookup via RoSwagger API.
     <br />
   </p>
+  
+  <h3 align="center">RoSwagger API Integration</h3>
+
+  <p align="center">
+    This project integrates with the RoSwagger API, allowing you to make requests to various endpoints.
+  </p>
+
+  <h3 align="center">Creator Program</h3>
+
+  <p align="center">
+    - <strong>Website</strong>: <a href="https://roswagger.com">roswagger.com</a><br>
+    - <strong>Creator Program</strong>: <a href="https://discord.roswagger.com">discord.roswagger.com</a>
+  </p>
+
+  <p align="center">
+    The Creator Program offers no restrictions and is completely free. You must have an active server to participate.<br>
+    Currently, restricted users have a cooldown of 5 seconds per user scrape, 30 seconds per group scrape.
+  </p>
+
+  <h3 align="center">Endpoints</h3>
+
+  <p align="center">
+    You can view available endpoints on the RoSwagger website. The API is structured as follows:
+  </p>
+
+  <h3 align="center">⚙️ Setup</h3>
+
+  <ol align="center">
+    <li>Fill everything in config.json</li>
+    <li>Install all requirements in cmd (pip install -r requirements.txt)</li>
+    <li>Run it with python bot.py</li>
+  </ol>
+
+  <h3 align="center">⭐ Features</h3>
+
+  <ul align="center">
+    <li>Simple configuration</li>
+    <li>Full source code</li>
+    <li>Good design, easy to understand</li>
+    <li>Gets all data of user</li>
+  </ul>
 </div>
-
-# RoSwagger API Integration
-
-This project integrates with the RoSwagger API, allowing you to make requests to various endpoints.
-
-## Creator Program
-
-- **Website**: [roswagger.com](https://roswagger.com)
-- **Creator Program**: [discord.roswagger.com](https://discord.roswagger.com)
-
-The Creator Program offers no restrictions and is completely free. You must have an active server to participate.
-Currently, restricted users have a cooldown of 5 seconds per user scrape, 30 seconds per group scrape.
-
-## Endpoints
-
-You can view available endpoints on the RoSwagger website. The API is structured as follows:
-
-
-# ⚙️ Setup
-
-1. Fill everything in config.json
-2. Install all requirements in cmd (pip install -r requirements.txt)
-3. Run it with python bot.py
-
-# ⭐ Features
-
-- Simple configuration
-- Full source code
-- Good design, easy to understand
-- Gets all data of user
